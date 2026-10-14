@@ -82,4 +82,4 @@ The Excel file also contains a `Cleaning Log` sheet with these steps.
 
 ## Author
 
-**Kavz** · [GitHub](https://github.com/kaviya-s546)
+**Kaviya Stalin** · [GitHub](https://github.com/kaviya-s546)
